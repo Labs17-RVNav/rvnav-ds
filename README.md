@@ -10,7 +10,7 @@ The goals for the data science team is as follows:
 
 This repository is divided between the flask API and notebooks directories. 
 
-## [Flask API](https://github.com/labs15-rv-life/data-science/tree/master/rv_combined_flask)
+## [Flask API](https://github.com/labs15-rv-life/data-science/tree/master/Rv_Flask)
 
 
 ## [Notebooks](https://github.com/labs15-rv-life/data-science/tree/master/Notebooks)
