@@ -2,7 +2,7 @@
 
 The construction of this API serves two primary purposes for the RV Life project. 
 
-url:   ```https://rv-nav-clearance.com```
+url:   ```dr7ajalnlvq7c.cloudfront.net```
 
 ## Routing
 
